@@ -1,6 +1,8 @@
 # Automated-Aerator-System
 Research 1 - Methods of Research
+
 CpE 512 - Design Project I
+
 CpE 521 - Design Project 2 (Design Implementation)
 
 The main purpose of this study is to develop and design a system that monitors the pH level and temperature with dissolve oxygen control in an artificial aquatic system. 
